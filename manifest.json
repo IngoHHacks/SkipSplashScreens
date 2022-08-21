@@ -1,0 +1,10 @@
+{
+  "namespace": "IngoH",
+  "name": "SkipSplashScreens",
+  "description": "Skips the splash screens when starting the game",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_COTL-5.4.21"
+  ],
+  "website_url": "https://github.com/IngoHHacks/SkipSplashScreens"
+}
