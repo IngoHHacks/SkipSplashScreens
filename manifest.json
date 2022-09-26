@@ -2,7 +2,7 @@
   "namespace": "IngoH",
   "name": "SkipSplashScreens",
   "description": "Skips the splash screens when starting the game",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "dependencies": [
     "BepInEx-BepInExPack_CultOfTheLamb-5.4.21"
   ],

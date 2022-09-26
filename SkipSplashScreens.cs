@@ -18,7 +18,7 @@ namespace SkipSplashScreens
     {
         public const string PluginGuid = "IngoH.cotl.SkipSplashScreens";
         public const string PluginName = "SkipSplashScreens";
-        public const string PluginVer = "1.0.0";
+        public const string PluginVer = "1.0.1";
 
         internal static ManualLogSource Log;
 
