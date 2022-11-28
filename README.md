@@ -1,7 +1,7 @@
 # SkipSplashScreens
 
 Skips the splash screens when starting the game.  
-Also has a configurable option to skip the main menu, straight to gameplay. This is disabled by default.  
+Also has a configuration option to skip the main menu, straight to gameplay. This is disabled by default.  
 To enable the menu skip, set SkipMenu to true, and SaveFileToLoad to the save to load.
 
 Contact:  
@@ -10,7 +10,7 @@ Contact:
 ## Changelog
 
 ### 1.0.2
-- Added a configurable option to skip the main menu, straight to gameplay.
+- Added a configuration option to skip the main menu, straight to gameplay.
 
 ### 1.0.1
 - Added Discord link.
